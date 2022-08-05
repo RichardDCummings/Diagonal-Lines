@@ -17,8 +17,8 @@ Instructions on editing the code in #comments in program.
 
 
 EXTRA SOFTWARE YOU MIGHT LIKE TO USE FOR DESIGN PURPOSES - GIMP.
-I wouldn’t recommend this Gimp if all you want to do is test/experiment with my program. But if you want you can use this to create a unique wallpaper, YouTube thumbnail, background, and/or profile picture.
-The software I would personally recommend to do these things is obviously Gimp seeing as it is a free alternative to photo shop and would go great with my program for designing purposes.
+I wouldn’t recommend this software if all you want to do is test/experiment with my program. But if you want you can use this to create a unique wallpaper, YouTube thumbnail, background, and/or profile picture.
+   I would personally reccommend  Gimp seeing as it is a free alternative to photo shop and would go great with my program for designing purposes.
 
 https://gimp.software/
 
