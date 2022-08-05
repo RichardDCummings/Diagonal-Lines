@@ -1,4 +1,4 @@
-# Diagonal-LINES
+# Diagonal-Lines
 WHAT IS DIAGONAL LINES?
 Diagonal Lines is a program made by Richard D. Cummings, though that’s just an alias ya big dumb dumb. It draws multiple diagonal lines of various colors, with only one thickness, as well as an optional thin black line in between each color (on by default).
 
